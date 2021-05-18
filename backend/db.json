@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "saco plastico",
+      "price": "0.70",
+      "id": 2
+    },
+    {
+      "name": "copo",
+      "price": "6",
+      "id": 3
+    }
+  ]
+}
